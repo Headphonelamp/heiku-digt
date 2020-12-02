@@ -38,6 +38,12 @@ i like your interger
 jeg forstår ikke 
 575 ?????????????????????????????
 
+<<<<<<< HEAD
 prøv lige hva fuck sker der
 nøj jeg er træt og har lyst at dø
 send nudes
+=======
+Jeg lærer GitHub
+Jeg synes det er ret nemt
+Må jeg nu gå hjem?
+>>>>>>> 1cfe74572bf2b8043c56cfe9257872dd64ffb7e9
